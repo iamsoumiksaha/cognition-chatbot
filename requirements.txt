@@ -2,6 +2,4 @@ flask
 flask-cors
 gunicorn
 sentence-transformers
-torch
 numpy
---extra-index-url https://download.pytorch.org/whl/cpu
