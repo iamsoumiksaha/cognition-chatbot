@@ -1,14 +1,14 @@
 hello ||| Hello! Welcome to Cognition Venture. How can we help grow your business today?
 hi ||| Hi! You are connected with Cognition Venture digital marketing assistant.
-who are you ||| I am the AI assistant of Cognition Venture, a digital marketing agency based in Malda.
+who are you ||| I am the AI assistant of Cognition Venture, a digital marketing agency based in Malda, West Bengal, India.
 what does cognition venture do ||| Cognition Venture provides SEO, social media marketing, web development, branding and digital marketing services.
 where is your company located ||| We are located in English Bazar, Malda, West Bengal, India.
 do you provide seo services ||| Yes, we provide professional SEO optimization to improve Google rankings and organic traffic.
 do you run facebook ads ||| Yes, we manage Meta and social media advertising campaigns for lead generation and brand growth.
 do you build websites ||| Yes, we design fast, responsive and SEO-optimized websites for businesses.
-what services do you offer ||| We offer SEO, PPC advertising, social media marketing, branding, web development, video editing and graphic design.
+what services do you offer ||| We offer SEO, Paid advertising, social media marketing, branding, web development, video editing and graphic design.
 do you work outside malda ||| Yes, we serve clients across India and internationally.
-how can i contact you ||| You can call us at +91 9332015302 or email info@cognitionventure.com.
+how can i contact you ||| You can call us at +91 9332015302 or Whatsapp +91 8016786669 email info@cognitionventure.com, cognitionventure@gmail.com.
 do you provide free consultation ||| Yes, we provide a free consultation to understand your business goals.
 can you help my business grow ||| Yes, we create customized digital marketing strategies focused on leads and growth.
 what industries do you work with ||| We work with real estate, schools, hospitals, startups and local businesses.
@@ -20,4 +20,115 @@ do you design logos ||| Yes, we provide graphic design and logo branding service
 what makes cognition venture different ||| We focus on measurable results, transparency and real business growth strategies.
 how can i start ||| Contact us today and we will discuss your project and marketing goals.
 thank you ||| You are welcome! Let us know if you need help with digital growth.
-bye ||| Thank you for visiting Cognition Venture. Have a great day!
+
+good morning ||| Good morning! Welcome to Cognition Venture. How can we help your business today?
+good evening ||| Good evening! How can Cognition Venture assist your growth today?
+good night |||  Good Night! we will talk in the morning.
+are you real ||| I am an AI assistant created by Cognition Venture to guide you instantly, and our human team is always available when needed.
+who created you ||| I was developed by the Cognition Venture team to help businesses understand digital marketing easily.
+
+what is digital marketing ||| Digital marketing helps businesses grow online using SEO, advertising, social media and branding strategies.
+why does my business need marketing ||| Marketing increases visibility, attracts customers and helps generate consistent business leads.
+can small businesses afford marketing ||| Yes, we create flexible strategies suitable for startups and small businesses.
+do you help startups ||| Yes, we help startups build brand identity and acquire their first customers online.
+
+what makes your agency different ||| We combine SEO, ads, branding and PR into one growth-focused strategy instead of isolated services.
+do you guarantee results ||| We focus on measurable improvement and transparent reporting while continuously optimizing campaigns.
+how soon can i see results ||| Paid ads can generate quicker leads while SEO builds long-term growth over time.
+
+i want website traffic ||| SEO and targeted advertising can increase your website traffic significantly.
+i want local customers ||| Local SEO and geo-targeted ads help attract nearby customers effectively.
+i want online sales ||| Performance marketing and conversion optimization can help increase online sales.
+
+do you manage instagram ||| Yes, we manage Instagram content, strategy and advertising campaigns.
+do you manage facebook page ||| Yes, we handle Facebook page management and lead generation campaigns.
+do you create reels ||| Yes, we create engaging reels and promotional short videos for better reach.
+do you design creatives ||| Yes, our team designs professional marketing creatives and branding visuals.
+facebook ad price ||| RS. 4269 / Month (RS.100/day+TAX)
+
+what is seo ranking ||| SEO ranking means improving your website position on Google search results.
+why is seo important ||| SEO helps customers find your business organically without paying for every click.
+can you rank my website ||| Yes, we optimize websites using proven SEO techniques to improve rankings gradually.
+
+what platforms do you advertise on ||| We run campaigns on Google Ads, Facebook, Instagram and other digital platforms.
+do you provide google ads ||| Yes, we create and optimize Google Ads campaigns for targeted lead generation.
+what is ppc ||| PPC means Pay Per Click advertising where you pay only when someone clicks your ad.
+
+do you redesign websites ||| Yes, we redesign outdated websites to improve speed, SEO and user experience.
+is mobile optimization included ||| Yes, all our websites are mobile-friendly and responsive.
+
+how do i start working with you ||| Simply share your business details and our team will guide you step-by-step.
+what information do you need ||| We usually need your business type, target audience and goals to begin planning.
+can i talk to a person ||| Yes, our team can contact you directly. Please share your phone number or email.
+
+i want marketing ||| Great! Is your business local, national or online based?
+my business is local ||| Perfect. Which city or area do you want to target?
+i need leads urgently ||| Paid ads combined with SEO can generate faster results. Would you like a consultation call?
+your service is expensive ||| We focus on ROI-driven marketing so businesses recover investment through leads and sales growth.
+i am not sure ||| No problem. We can start with a short strategy discussion and you can decide comfortably.
+do you have experience ||| Yes, we have worked with multiple industries including real estate, education and healthcare.
+i dont know ||| No worries. Tell me what you want to improve — traffic, branding or sales?
+who built you ||| I was created by the Cognition Venture team to help businesses grow digitally.
+i want to start today ||| Excellent! Please share your phone number so our strategist can contact you immediately.
+
+i want to start today ||| Excellent! Please share your phone number so our strategist can contact you immediately.
+
+i want to start today ||| Excellent! Please share your phone number so our strategist can contact you immediately.
+
+who built you ||| I was created by the Cognition Venture team to help businesses grow digitally.
+are you human ||| I am an AI assistant trained to guide you instantly, and our human team is always available when needed.
+
+i dont know ||| No worries 🙂 Tell me what you want to improve — website traffic, branding or sales?
+hmm ||| I can help you choose the right marketing plan. What is your business about?
+
+where can i see services ||| You can explore our services page on cognitionventure.com for full details.
+how do i contact team ||| You can call directly or submit the contact form and our team will respond quickly.
+
+do you have experience ||| Yes, we have worked with multiple industries including real estate, education and healthcare businesses.
+can you show results ||| We provide transparent reports and measurable performance tracking.
+
+your service is expensive ||| We focus on ROI-driven marketing so businesses recover investment through leads and sales growth.
+i am not sure ||| No problem. We can start with a small strategy discussion and you can decide comfortably.
+i tried marketing before and failed ||| Many campaigns fail without proper strategy. We focus on data-driven targeting and optimization.
+
+i want marketing ||| Great! Is your business local, national or online based?
+my business is local ||| Perfect. Which city or area do you want to target?
+i need leads urgently ||| Understood. Paid ads combined with SEO can generate faster results. Would you like a quick consultation call?
+
+i am confused ||| No worries. Tell me your business goal and I will suggest the best marketing approach.
+i dont understand marketing ||| That's okay. We explain everything in simple terms before starting any campaign.
+i need guidance ||| Sure! Tell me about your business and we will guide you properly.
+
+is there a contract ||| We offer flexible working models depending on project requirements.
+how do payments work ||| Payments are usually monthly based on selected marketing plans.
+can i upgrade plan later ||| Yes, plans can be upgraded anytime as your business grows.
+
+do you provide reports ||| Yes, we provide performance reports showing reach, traffic and results.
+how do i track results ||| You receive analytics reports and campaign insights regularly.
+
+do you work with real estate ||| Yes, we help real estate businesses generate qualified leads.
+do you work with schools ||| Yes, we help educational institutions with branding and admissions marketing.
+do you work with hospitals ||| Yes, we help healthcare businesses improve visibility and patient reach.
+
+i need branding ||| Great! We can build your logo, visual identity and brand positioning strategy.
+i want brand awareness ||| Brand awareness campaigns help your business reach a larger targeted audience.
+
+is consultation free ||| Yes, the first consultation is completely free.
+how long is consultation ||| Usually 15–30 minutes to understand your goals and suggest a strategy.
+
+i want quick leads ||| Paid advertising campaigns can start generating leads quickly while SEO builds long-term growth.
+i want long term growth ||| SEO combined with branding creates sustainable long-term business growth.
+
+ok lets start project ||| Excellent! Please share your name, business type and contact number so we can begin.
+yes i am ready ||| Perfect! Our team will connect with you shortly after receiving your details.
+i want to discuss now ||| Please share your phone number and our strategist will contact you soon.
+
+can you call me ||| Yes, please share your phone number and preferred time for a call.
+here is my number ||| Thank you! Our team will reach out shortly.
+can you do it for free for me ||| Yes, one graphic design.
+do you have discount? ||| Yes, digital markting packge for 1st month RS. 12999 then it RS. 15999
+Website making price. ||| Rs. 6999 / year
+
+thanks ||| You're welcome! We are happy to help your business grow.
+thank you so much ||| Always happy to help. Let us know whenever you are ready to start.
+bye ||| Thank you for visiting Cognition Venture. We look forward to working with you.
