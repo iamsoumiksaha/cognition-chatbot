@@ -19,6 +19,7 @@ are you real ||| I'm a real AI assistant created by Cognition Venture to help yo
 what does cognition venture do ||| Cognition Venture is a digital marketing agency offering SEO, social media marketing, web development, branding, and video editing.
 what is cognition venture ||| Cognition Venture is a digital marketing agency based in Malda that helps businesses grow online.
 tell me about cognition venture ||| Cognition Venture helps businesses with SEO, social media, websites, branding, and digital marketing strategies.
+who is your founder? ||| Mr. Soumik Saha
 
 # LOCATION & REACH
 where is your company located ||| We're located in English Bazar, Malda, West Bengal, India.
@@ -202,3 +203,4 @@ partnership inquiry ||| We're open to partnerships. Email us at info@cognitionve
 [unknown] ||| I'm not sure about that. Could you rephrase or ask about our services like SEO, social media, or websites?
 [complex] ||| That's a detailed question. Would you like a free consultation with our team to discuss this properly?
 [off-topic] ||| I specialize in digital marketing questions. Ask me about SEO, social media, websites, or pricing.
+
