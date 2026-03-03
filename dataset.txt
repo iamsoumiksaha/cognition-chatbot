@@ -1,0 +1,593 @@
+# ============================================================
+# COGNITION VENTURE – CHATBOT DATASET
+# Format: question ||| answer
+# Agency: Cognition Venture, English Bazar, Malda, West Bengal
+# Contact: +91 9332015302 | info@cognitionventure.com
+# ============================================================
+
+# ────────────────────────────────────────────────────────────
+# GREETINGS & SMALL TALK
+# ────────────────────────────────────────────────────────────
+hello ||| Hello! Welcome to Cognition Venture. How can I help you today?
+hi ||| Hi there! Cognition Venture assistant here. How can I help?
+hey ||| Hey! How can Cognition Venture assist you today?
+hii ||| Hi! Welcome to Cognition Venture. What can I help you with?
+hiya ||| Hey! Great to see you. How can we help your business?
+hola ||| Hello! Welcome to Cognition Venture. How can I assist?
+namaste ||| Namaste! Welcome to Cognition Venture. How can I help your business grow?
+namaskar ||| Namaskar! How can Cognition Venture assist you today?
+yo ||| Hey! Ready to help. What do you need from Cognition Venture?
+sup ||| Hey! How can we help your business today?
+howdy ||| Hey there! What can Cognition Venture do for you?
+greetings ||| Greetings! How can I help with your digital marketing today?
+hi there ||| Hi! Welcome. Ask me about our services, pricing, or anything else.
+hello there ||| Hello! Great to have you here. How can I assist?
+good morning ||| Good morning! How can I help your business grow today?
+good afternoon ||| Good afternoon! How can I assist you today?
+good evening ||| Good evening! How can I help with your marketing needs?
+good night ||| Good night! Feel free to message us anytime.
+gm ||| Good morning! How can Cognition Venture help you today?
+gud morning ||| Good morning! Welcome to Cognition Venture. How can I assist?
+good morning sir ||| Good morning! How can Cognition Venture help your business today?
+good morning madam ||| Good morning! Welcome. How can I assist you today?
+good afternoon sir ||| Good afternoon! How can I help you grow your business?
+good evening sir ||| Good evening! How can Cognition Venture assist you?
+how are you ||| I'm doing great and always ready to help! How can Cognition Venture assist you?
+how r u ||| I'm great! How can I help your business today?
+how are you doing ||| Doing well! Ready to help your business grow online. What do you need?
+are you there ||| Yes, I'm here! How can I help you today?
+anyone there ||| Yes! I'm the Cognition Venture assistant. How can I help?
+is anyone available ||| Yes! I'm available 24/7. How can I assist you?
+what's up ||| Ready to help! What brings you to Cognition Venture?
+wassup ||| Hey! How can we help your business grow today?
+what can you help with ||| I can help with SEO, websites, social media, ads, branding, pricing, locations, and more!
+help ||| Sure! Ask me about SEO, social media, websites, ads, or pricing.
+menu ||| You can ask about: Services, Pricing, Contact, Locations, or specific industries like healthcare, education, or real estate.
+start ||| Welcome to Cognition Venture! Ask me anything about our digital marketing services.
+testing ||| I'm working perfectly! Ask me anything about Cognition Venture.
+test ||| I'm ready! What would you like to know?
+
+# ────────────────────────────────────────────────────────────
+# ABOUT COGNITION VENTURE
+# ────────────────────────────────────────────────────────────
+what is cognition venture ||| Cognition Venture is a full-service digital marketing agency based in Malda, West Bengal. We help businesses grow online through SEO, social media, website development, ads, and branding.
+who is cognition venture ||| Cognition Venture is a digital marketing agency in Malda, West Bengal, founded by Mr. Soumik Saha. We serve 50+ clients across India.
+tell me about cognition venture ||| Cognition Venture is a digital marketing agency in Malda specializing in SEO, social media, web development, branding, and performance advertising for businesses across India.
+what does cognition venture do ||| We provide SEO, social media marketing, website development, Google Ads, Facebook Ads, branding, content creation, and lead generation services.
+cognition venture company ||| Cognition Venture is a digital marketing company in Malda, West Bengal, helping businesses grow their online presence.
+who founded cognition venture ||| Cognition Venture was founded by Mr. Soumik Saha.
+who is soumik saha ||| Soumik Saha is the founder of Cognition Venture, a digital marketing agency in Malda, West Bengal.
+cognition venture founder ||| Our founder is Mr. Soumik Saha.
+cognition venture location ||| We are located in English Bazar, Malda, West Bengal, India.
+cognition venture address ||| Our office is in English Bazar, Malda, West Bengal, India.
+where are you located ||| We are located in English Bazar, Malda, West Bengal, India.
+where are you based ||| We are based in Malda, West Bengal, India.
+cognition venture phone ||| Call us at +91 9332015302.
+cognition venture whatsapp ||| WhatsApp us at +91 8016786669.
+cognition venture email ||| Email us at info@cognitionventure.com.
+cognition venture website ||| Our website is cognitionventure.com.
+cognition venture contact ||| Call: +91 9332015302 | WhatsApp: +91 8016786669 | Email: info@cognitionventure.com
+is cognition venture good ||| Yes! Trusted by 50+ clients. We deliver transparent, result-driven digital marketing with no hidden charges.
+is cognition venture reliable ||| Absolutely! We offer transparent reporting, dedicated support, and no hidden charges for every client.
+is cognition venture trustworthy ||| Yes! We have 50+ happy clients, proper GST invoices, and a verified Google Maps listing. Search us on Google.
+cognition venture portfolio ||| Visit cognitionventure.com/website-portfolio.php to see our website design work.
+cognition venture blog ||| Our blog at cognitionventure.com/blog.php covers digital marketing tips, local business guides, and North Bengal news.
+cognition venture team ||| We have a dedicated team of SEO experts, designers, developers, content writers, and ad specialists.
+how many clients cognition venture ||| We have worked with 50+ clients across healthcare, education, real estate, retail, and more.
+cognition venture reviews ||| We have excellent client reviews. Search "Cognition Venture" on Google Maps to see them.
+cognition venture social media ||| Follow us on Facebook and Instagram @cognitionventure.
+cognition venture facebook ||| Find us on Facebook @cognitionventure.
+cognition venture instagram ||| Follow us on Instagram @cognitionventure for marketing tips and updates.
+are you a bot ||| Yes, I'm a chatbot built by Cognition Venture to answer your questions 24/7!
+are you human ||| No, I'm an AI assistant. Our human team is available at +91 9332015302.
+are you an ai ||| Yes, I'm an AI assistant for Cognition Venture. How can I help?
+who created you ||| The Cognition Venture team built me to help answer your questions 24/7.
+what is your name ||| I'm the Cognition Venture AI Assistant, here to help 24/7!
+do you work outside malda ||| Yes! We serve clients across India and internationally.
+do you serve all of india ||| Yes, we work with clients across all Indian states remotely.
+do you work internationally ||| Yes, we work with international clients too.
+
+# ────────────────────────────────────────────────────────────
+# SERVICES OVERVIEW
+# ────────────────────────────────────────────────────────────
+what services do you offer ||| We offer SEO, social media marketing, web development, branding, graphic design, video editing, PPC ads, lead generation, WhatsApp marketing, email marketing, and more.
+list all your services ||| SEO | Social Media Marketing | Google Ads | Facebook Ads | Website Development | Logo & Graphic Design | Video Editing | Content Writing | WhatsApp Marketing | Email Marketing | Branding | Lead Generation | Google My Business.
+what can you do for my business ||| We help with SEO for traffic, social media for engagement, websites for credibility, and ads for quick leads.
+do you offer all digital marketing services ||| Yes, we are a full-service digital marketing agency covering all major online channels.
+which service is best for me ||| It depends on your goal. SEO for long-term growth, Ads for quick leads, Social Media for engagement. Book a free consultation and we'll recommend the best fit.
+most popular service ||| SEO and Social Media Marketing are our most popular services.
+do you offer monthly packages ||| Yes, all services are available on flexible monthly packages.
+do you offer yearly packages ||| Yes, annual packages come with up to 2 months free.
+do you offer custom packages ||| Yes, we create fully customized packages based on your business needs and budget.
+all in one package ||| Our all-in-one growth package includes SEO, Social Media, and Ads management starting at ₹12,999/month.
+what makes you different ||| Transparent reporting, customized strategies, dedicated account manager, no long-term contracts, and no hidden charges.
+why choose cognition venture ||| Customized strategies, transparent pricing, dedicated account manager, no long-term contracts, and a proven 50+ client track record.
+do you have packages for small business ||| Yes! We have affordable packages specifically for small businesses starting at ₹4,269/month.
+do you help new businesses ||| Yes, we love helping new businesses build their digital presence from scratch.
+do you work with startups ||| Yes! We offer special packages for startups and new businesses.
+
+# ────────────────────────────────────────────────────────────
+# SEO SERVICES
+# ────────────────────────────────────────────────────────────
+do you provide seo ||| Yes, we provide comprehensive SEO including on-page optimization, technical SEO, local SEO, link building, and keyword research.
+do you offer seo services ||| Yes! Our SEO services cover everything from keyword research to monthly ranking reports.
+seo service ||| Yes, we provide full SEO services. Packages start at ₹5,000/month.
+what is seo ||| SEO (Search Engine Optimization) improves your website to rank higher on Google, bringing free organic traffic.
+why is seo important ||| SEO brings free organic traffic, builds trust, and gives 24/7 visibility for your business.
+how long does seo take ||| SEO typically shows significant results in 3–6 months with consistent effort.
+what is local seo ||| Local SEO helps your business appear when people search for services near them on Google Maps.
+seo price ||| SEO packages start at ₹5,000/month.
+seo cost ||| Basic SEO starts at ₹5,000/month. Custom quotes available for competitive industries.
+seo audit price ||| SEO audit starts at ₹3,000.
+can you rank my website ||| Yes, we use proven SEO techniques to improve your website rankings over time.
+does seo work for small businesses ||| Yes! Local SEO is especially powerful for small businesses to attract nearby customers.
+do you do keyword research ||| Yes, in-depth keyword research is part of every SEO campaign.
+do you build backlinks ||| Yes, we build high-quality backlinks as part of our SEO strategy.
+what is technical seo ||| Technical SEO improves your site's speed, mobile-friendliness, and crawlability for search engines.
+what is on page seo ||| On-page SEO optimizes your website's content, titles, meta tags, and structure for search engines.
+what is off page seo ||| Off-page SEO involves building backlinks and online mentions to increase your site's authority.
+monthly seo report ||| Yes, we provide detailed monthly SEO reports showing rankings, traffic, and improvements.
+seo for hospitals ||| Yes! Local SEO helps hospitals appear when patients search for doctors nearby.
+seo for schools ||| Yes! SEO helps schools rank for admission-related searches by parents.
+seo for real estate ||| Yes! SEO helps real estate businesses rank for property search terms.
+
+# ────────────────────────────────────────────────────────────
+# SOCIAL MEDIA MARKETING
+# ────────────────────────────────────────────────────────────
+do you manage social media ||| Yes, we manage social media including content creation, posting, and engagement.
+social media management ||| Yes! We manage Facebook, Instagram, LinkedIn, YouTube, and Twitter with content, posting, and engagement.
+do you manage instagram ||| Yes, we manage Instagram with posts, reels, stories, hashtags, and engagement.
+do you manage facebook page ||| Yes, we handle Facebook page management, content, and posting.
+do you create reels ||| Yes, we create engaging reels and short videos for social media.
+what platforms do you manage ||| We manage Facebook, Instagram, LinkedIn, Twitter/X, YouTube, and WhatsApp Business.
+social media price ||| Social media management starts at ₹4,269/month.
+how many posts per month ||| Standard packages include 12–20 posts per month depending on the plan.
+do you write captions ||| Yes, we write engaging social media captions as part of our packages.
+do you do hashtag research ||| Yes, we research and use the best hashtags for maximum reach.
+do you respond to comments ||| Yes, comment management is included in premium social media packages.
+do you create stories ||| Yes, we create Instagram and Facebook stories as part of our content packages.
+social media for hospitals ||| Yes! We create patient-friendly social media content for hospitals and clinics.
+social media for schools ||| Yes! We create engaging content for schools to attract parents and students.
+social media for real estate ||| Yes! We create property showcase posts and lead-generating content for real estate businesses.
+social media audit ||| Yes, we offer social media audits to analyze your current presence and suggest improvements.
+
+# ────────────────────────────────────────────────────────────
+# FACEBOOK & GOOGLE ADS
+# ────────────────────────────────────────────────────────────
+do you run facebook ads ||| Yes, we create and manage Facebook ad campaigns starting from ₹100/day.
+facebook ads price ||| Facebook ads start at ₹4,269/month (₹100/day + management fee + tax).
+do you provide google ads ||| Yes, we manage Google Ads campaigns including search, display, and video ads.
+google ads price ||| Google Ads campaigns start at ₹5,000/month + ad spend.
+what is ppc ||| PPC (Pay Per Click) means you pay only when someone clicks your ad.
+do you run instagram ads ||| Yes, we run Instagram ads as part of Facebook/Instagram ad management.
+do you run youtube ads ||| Yes, we create and manage YouTube advertising campaigns.
+do you run linkedin ads ||| Yes, we create LinkedIn ad campaigns for B2B businesses.
+what are lead generation ads ||| Lead gen ads collect contact information from potential customers directly on the platform.
+do you create landing pages ||| Yes, we create high-converting landing pages for ad campaigns.
+do you do retargeting ||| Yes, we set up retargeting campaigns to bring back visitors who left your website.
+do you do ab testing ||| Yes, we run A/B tests on all ad campaigns to optimize performance.
+how fast can ads generate leads ||| With Google and Facebook ads, you can start getting leads within 2–3 days of campaign launch.
+minimum ad budget ||| Minimum recommended budget: ₹100/day for Facebook and ₹150/day for Google Ads.
+ads performance report ||| Yes, we provide detailed weekly and monthly ad performance reports.
+
+# ────────────────────────────────────────────────────────────
+# WEBSITE DEVELOPMENT
+# ────────────────────────────────────────────────────────────
+do you build websites ||| Yes, we build fast, mobile-friendly, SEO-optimized websites.
+do you redesign websites ||| Yes, we can redesign your existing website to make it better.
+website price ||| Basic: ₹6,999/year | Professional: ₹14,999/year | E-commerce: ₹24,999/year. All include hosting and domain.
+website cost ||| Websites start at ₹6,999/year including hosting and domain registration.
+is mobile optimization included ||| Yes, all our websites are mobile-friendly and responsive.
+do you provide hosting ||| Yes, hosting is included in all our website packages.
+domain registration ||| Yes, domain registration is included in our website packages.
+ssl certificate ||| SSL certificate is included in all our websites.
+website maintenance cost ||| Website maintenance starts at ₹2,000/month.
+do you build ecommerce websites ||| Yes, we build e-commerce websites with product listings, cart, and payment gateways.
+ecommerce website price ||| E-commerce websites start at ₹24,999/year.
+how long does website take ||| Basic websites: 5–7 days. Professional: 2–3 weeks. E-commerce: 3–4 weeks.
+do you integrate payment gateway ||| Yes, we integrate Razorpay, PayU, and PayPal payment gateways.
+do you build wordpress websites ||| Yes, we build websites on WordPress, one of the world's most popular platforms.
+do you fix website errors ||| Yes, we provide bug fixes and technical support.
+do you optimize website speed ||| Yes, website speed optimization is part of our web development and maintenance services.
+do you build school websites ||| Yes, we build professional school websites with admission forms, faculty profiles, and gallery.
+do you build hospital websites ||| Yes, we create hospital websites with doctor listings, appointment booking, and patient info.
+do you build real estate websites ||| Yes, we build property listing websites with search filters, photo gallery, and lead forms.
+will my website rank on google ||| Yes, all our websites are built with SEO best practices to help rank on Google.
+do you provide website analytics ||| Yes, we set up Google Analytics for all websites to track visitor behavior.
+
+# ────────────────────────────────────────────────────────────
+# BRANDING & DESIGN
+# ────────────────────────────────────────────────────────────
+do you design logos ||| Yes, we design professional logos starting at ₹2,999 with up to 3 revisions.
+logo design price ||| Logo design starts at ₹2,999.
+do you create brand strategy ||| Yes, we help create brand identity, voice, color palette, and strategy.
+graphic design price ||| Graphic design starts at ₹1,500 per design.
+do you do complete branding ||| Yes, complete branding packages including logo, color palette, and brand guidelines start at ₹9,999.
+business card design ||| Business card design starts at ₹500.
+brochure design ||| Brochure design starts at ₹1,500.
+flyer design ||| Flyer design starts at ₹800.
+poster design ||| Poster design starts at ₹1,000.
+banner design ||| Banner design starts at ₹800.
+do you design social media templates ||| Yes, we create branded social media post templates for consistent look.
+do you deliver source files ||| Yes, we deliver all source files (AI, PSD, PNG, PDF) upon project completion.
+how many logo revisions ||| We offer up to 3 revisions on logo designs. Additional revisions are chargeable.
+catalogue design ||| Yes, we design product catalogues and brochures.
+
+# ────────────────────────────────────────────────────────────
+# VIDEO & CONTENT
+# ────────────────────────────────────────────────────────────
+do you provide video editing ||| Yes, we edit promotional videos, reels, and social media content professionally.
+video editing price ||| Video editing starts at ₹2,000 per video.
+do you create content ||| Yes, we create blog posts, social media captions, and website content.
+content writing price ||| Content writing starts at ₹500 per page.
+blog writing price ||| Blog posts start at ₹500 per article.
+do you create animation videos ||| Yes, we create animated explainer videos starting at ₹5,000.
+do you write website content ||| Yes, we write SEO-optimized content for all website pages.
+do you write ad copies ||| Yes, writing high-converting ad copies is part of our advertising service.
+press release ||| Yes, we write and distribute press releases for businesses.
+do you do copywriting ||| Yes, we offer professional copywriting for websites, ads, and marketing materials.
+do you write product descriptions ||| Yes, we write compelling product descriptions for e-commerce websites.
+
+# ────────────────────────────────────────────────────────────
+# OTHER DIGITAL MARKETING SERVICES
+# ────────────────────────────────────────────────────────────
+do you do email marketing ||| Yes, we provide email marketing including campaign design, automation, and list management.
+email marketing price ||| Email marketing starts at ₹3,000/month.
+do you do whatsapp marketing ||| Yes, we offer WhatsApp Business marketing including bulk messaging and campaign setup.
+whatsapp marketing price ||| WhatsApp marketing campaigns start at ₹2,500/month.
+bulk whatsapp marketing ||| Yes, we provide bulk WhatsApp marketing services.
+sms marketing ||| Yes, we offer bulk SMS marketing campaigns starting at ₹2,000/month.
+do you manage youtube channel ||| Yes, we offer YouTube channel management.
+google my business setup ||| Yes, we set up and fully optimize your Google Business Profile.
+google maps listing ||| Yes, we help optimize your Google Maps listing for maximum local visibility.
+review management ||| Yes, we help manage, monitor, and respond to customer reviews online.
+do you do influencer marketing ||| Yes, we can help with influencer collaborations for your brand.
+crm setup ||| Yes, we can help set up and configure CRM for your business.
+chatbot setup ||| Yes, we can integrate chatbot solutions for your website and social media.
+do you do competitor analysis ||| Yes, we provide competitor analysis as part of our marketing strategy.
+do you do reputation management ||| Yes, we manage your online reputation through reviews, content, and brand monitoring.
+lead generation services ||| Yes, we specialize in lead generation through SEO, Google Ads, Facebook Ads, and landing pages.
+
+# ────────────────────────────────────────────────────────────
+# HEALTHCARE MARKETING
+# ────────────────────────────────────────────────────────────
+do you work with hospitals ||| Yes! We help hospitals with patient acquisition, local SEO, Google My Business, website, and reputation management.
+do you work with doctors ||| Yes, we help individual doctors build their online presence and attract patients.
+do you work with clinics ||| Yes, we provide digital marketing for clinics including local SEO, ads, and website.
+do you work with diagnostic centers ||| Yes, we help diagnostic centers increase bookings through digital marketing.
+do you work with pharmacies ||| Yes, we help pharmacies with local SEO and social media.
+digital marketing for hospitals ||| We help hospitals with local SEO, Google My Business, patient acquisition ads, website, and review management.
+digital marketing for doctors ||| We help doctors with Google Business Profile, local SEO, website, and patient-focused social media.
+digital marketing for clinics ||| Clinic marketing includes local SEO, Google Ads, Facebook Ads, website, and appointment booking integration.
+healthcare marketing price ||| Healthcare marketing packages start at ₹8,000/month. Contact us for a custom quote.
+seo for hospitals ||| Hospital SEO targets patients searching for doctors or treatments near them. Results in 3–6 months.
+website for hospitals ||| We build hospital websites with doctor profiles, department listings, appointment booking, and emergency contact.
+patient lead generation ||| We generate patient leads through Google Ads, local SEO, and Facebook campaigns.
+social media for hospitals ||| We create health-awareness content, doctor highlights, and patient testimonials for hospital social media.
+whatsapp marketing for healthcare ||| Yes, we use WhatsApp for appointment reminders, health tips, and healthcare promotions.
+color psychology hospital marketing ||| We use colors strategically in healthcare marketing: blue for trust, green for health, white for cleanliness.
+sonoscan malda ||| We have created doctor directory content for Sonoscan diagnostic centers in Malda.
+brdc malda doctor list ||| We have experience with BRDC Malda doctor listings. We help healthcare providers grow digitally.
+mmc hospital malda ||| We have created content for MMC Hospital Malda. We provide healthcare marketing in Malda.
+
+# ────────────────────────────────────────────────────────────
+# EDUCATION MARKETING
+# ────────────────────────────────────────────────────────────
+do you work with schools ||| Yes! We help schools with admissions marketing, website development, and social media.
+do you work with colleges ||| Yes, we provide digital marketing for colleges and higher education institutions.
+do you work with coaching centers ||| Yes, we help coaching centers attract students online.
+digital marketing for schools ||| We help schools with admissions-focused SEO, Facebook Ads for parents, school website, and social media.
+digital marketing for colleges ||| College marketing includes admissions campaigns, website, social media, and student recruitment strategies.
+admissions marketing ||| We create targeted campaigns to boost admissions through Google Ads, Facebook Ads, and SEO.
+student lead generation ||| We generate student admission inquiries through targeted digital campaigns.
+school website price ||| School websites start at ₹9,999. Contact us for a custom quote.
+social media for schools ||| We manage school social media to engage parents, students, and the community.
+seo for schools ||| School SEO targets parents searching for admissions like "best school in Malda" or "CBSE school near me".
+smart schools raiganj ||| We have expertise in marketing smart schools in Raiganj. Visit cognitionventure.com/blogs/smart-schools-raiganj.php.
+sk bright academy malda ||| We have experience marketing schools in Malda like SK Bright Academy.
+ai school west bengal ||| We help schools position as AI-ready institutions. Blog post available at cognitionventure.com/blog.php.
+
+# ────────────────────────────────────────────────────────────
+# REAL ESTATE MARKETING
+# ────────────────────────────────────────────────────────────
+do you work with real estate ||| Yes! We help real estate businesses generate leads and build brand awareness.
+do you work with builders ||| Yes, we provide digital marketing for builders and developers.
+do you work with property dealers ||| Yes, we help property dealers generate leads through digital marketing.
+digital marketing for real estate ||| We use SEO, Google Ads, Facebook Ads, and social media to showcase properties and generate inquiries.
+property lead generation ||| We generate buyer and tenant leads through targeted Google and Facebook campaigns.
+real estate website ||| We build property listing websites with search filters, photo gallery, floor plans, and lead capture forms.
+real estate marketing price ||| Real estate marketing packages start at ₹7,000/month. Contact us for custom pricing.
+flat in malda marketing ||| Yes, we help Malda real estate businesses market flats and properties online.
+facebook ads for real estate ||| Facebook real estate ads showcase properties to targeted buyers with images and lead capture forms.
+seo for real estate ||| Real estate SEO ranks your website for property-related searches in your target area.
+
+# ────────────────────────────────────────────────────────────
+# PRICING & PACKAGES
+# ────────────────────────────────────────────────────────────
+what are your prices ||| SEO: ₹5,000/month | Social Media: ₹4,269/month | Website: ₹6,999/year | Logo: ₹2,999 | Facebook Ads: ₹4,269/month | Google Ads: ₹5,000/month+. Custom packages available.
+how much do you charge ||| Prices vary by service. SEO from ₹5,000/month, websites from ₹6,999/year, ads from ₹4,269/month. Call +91 9332015302 for a custom quote.
+give me price list ||| SEO: ₹5,000/month | Social Media: ₹4,269/month | Website: ₹6,999–₹24,999/year | Logo: ₹2,999 | Graphic Design: ₹1,500/design | Video: ₹2,000/video | Content: ₹500/page.
+do you have discount ||| Yes! First month at ₹12,999 (regular ₹15,999). Annual plans get 2 months free.
+any current offers ||| Current offer: All-in-one package at ₹12,999/month (regular ₹15,999). Annual packages get 2 months free.
+is there a contract ||| No long-term contracts! Month-to-month services. Cancel anytime with 30 days notice.
+cancellation policy ||| You can cancel anytime with 30 days written notice. No cancellation charges.
+refund policy ||| We don't offer refunds but guarantee quality work and continuous optimization until you're satisfied.
+payment methods ||| We accept Bank Transfer, UPI, Credit/Debit Card, and PayPal.
+do you accept upi ||| Yes, we accept Google Pay, PhonePe, Paytm, BHIM, and all UPI methods.
+do you accept paypal ||| Yes, international clients can pay via PayPal.
+do you give invoice ||| Yes, we provide proper GST invoices for all payments.
+is there gst ||| Yes, GST is applicable on all services as per Indian government regulations.
+hidden charges ||| No hidden charges! Our pricing is fully transparent. All costs are discussed upfront.
+basic package price ||| Our basic digital marketing package starts at ₹4,269/month.
+premium package price ||| Our premium all-in-one package is ₹12,999/month (discounted from ₹15,999).
+minimum budget ||| Services start as low as ₹500 for content writing and ₹800 for design. Monthly management from ₹4,269.
+can i pay annually ||| Yes, annual payments come with 2 months free.
+hourly consultation ||| Yes, hourly consultation is available at ₹1,000/hour.
+do you have free trial ||| We offer a free 30-minute consultation to understand your needs before committing.
+project based work ||| Yes, we take project-based work too.
+monthly retainer ||| Yes, we offer monthly retainer packages for all services.
+is there a minimum contract ||| No minimum contract. Month-to-month with 30 days cancellation notice.
+
+# ────────────────────────────────────────────────────────────
+# CONTACT & SUPPORT
+# ────────────────────────────────────────────────────────────
+phone number ||| Our phone number is +91 9332015302.
+mobile number ||| Our mobile number is +91 9332015302.
+contact number ||| Contact us at +91 9332015302.
+whatsapp number ||| Our WhatsApp number is +91 8016786669.
+email address ||| Our email is info@cognitionventure.com.
+website ||| Our website is cognitionventure.com.
+office address ||| Our office is in English Bazar, Malda, West Bengal, India.
+how to contact you ||| Call: +91 9332015302 | WhatsApp: +91 8016786669 | Email: info@cognitionventure.com
+contact details ||| Phone: +91 9332015302 | WhatsApp: +91 8016786669 | Email: info@cognitionventure.com | Website: cognitionventure.com
+office hours ||| We are available Monday to Saturday, 10 AM to 7 PM IST.
+working hours ||| Monday to Saturday, 10 AM to 7 PM IST.
+are you open on sunday ||| We are closed on Sundays but available for emergencies via WhatsApp.
+response time ||| We typically respond within 2 hours during business hours (Mon–Sat, 10AM–7PM).
+do you provide free consultation ||| Yes! We offer a free 30-minute consultation. Call +91 9332015302.
+how to book consultation ||| Call +91 9332015302 or WhatsApp +91 8016786669 to schedule your free consultation.
+can i visit your office ||| Yes, visit us at English Bazar, Malda. Office hours: Mon–Sat, 10AM–7PM.
+do you do video calls ||| Yes! We conduct meetings via Google Meet, Zoom, or WhatsApp video call.
+how to get a quote ||| Contact us at +91 9332015302 or info@cognitionventure.com for a personalized quote.
+emergency support ||| For urgent support, WhatsApp +91 8016786669. We respond as quickly as possible.
+talk to a person ||| Call us at +91 9332015302 or WhatsApp +91 8016786669 to speak with our team.
+dedicated account manager ||| Yes, every client gets a dedicated account manager as their single point of contact.
+how long to get proposal ||| We deliver proposals within 24 hours of the initial consultation.
+can we meet in person ||| Yes, you can visit our office in English Bazar, Malda or schedule a video call.
+
+# ────────────────────────────────────────────────────────────
+# CITY-SPECIFIC SERVICES (NORTH BENGAL)
+# ────────────────────────────────────────────────────────────
+digital marketing in malda ||| Yes! Cognition Venture is Malda's leading digital marketing agency. We know the local market inside out. Call +91 9332015302.
+seo in malda ||| Yes, we provide expert SEO services for Malda businesses. Call +91 9332015302.
+website development in malda ||| Yes, we build professional websites for Malda businesses starting at ₹6,999/year.
+facebook ads in malda ||| Yes, we run targeted Facebook ad campaigns for Malda businesses. Starting at ₹4,269/month.
+best digital marketing malda ||| Cognition Venture is recognized as one of the best digital marketing agencies in Malda.
+digital marketing agency malda ||| Cognition Venture is a top digital marketing agency in Malda, West Bengal.
+digital marketing in siliguri ||| Yes! We serve Siliguri businesses with full digital marketing services. Call +91 9332015302.
+seo in siliguri ||| Yes, we provide SEO services for Siliguri businesses.
+digital marketing consultant siliguri ||| Yes, our consultants provide expert digital marketing advice for Siliguri businesses.
+facebook ads siliguri ||| Yes, we run Facebook ad campaigns for Siliguri businesses.
+best digital marketing siliguri ||| Cognition Venture provides top-quality digital marketing for Siliguri businesses. Call +91 9332015302.
+digital marketing in darjeeling ||| Yes, we provide digital marketing for Darjeeling businesses. Call +91 9332015302.
+seo in darjeeling ||| Yes, we offer SEO and branding for Darjeeling businesses.
+seo company darjeeling ||| Cognition Venture provides SEO services for businesses in Darjeeling.
+digital marketing in raiganj ||| Yes, we serve Raiganj businesses with SEO, social media, and web services. Call +91 9332015302.
+digital marketing in jalpaiguri ||| Yes, we provide digital marketing for Jalpaiguri businesses.
+digital marketing in cooch behar ||| Yes, Cooch Behar businesses can access our full range of digital marketing services.
+digital marketing in alipurduar ||| Yes, we offer social media and web design for Alipurduar businesses.
+digital marketing in kalimpong ||| Yes, Kalimpong businesses can use our digital marketing services.
+digital marketing in bagdogra ||| Yes, we serve businesses in Bagdogra with digital marketing solutions.
+digital marketing in balurghat ||| Yes, Balurghat businesses can access our SEO, social media, and web services.
+digital marketing in kishanganj ||| Yes, we extend our digital marketing services to Kishanganj businesses.
+digital marketing in gangarampur ||| Yes, we provide digital marketing services in Gangarampur.
+do you work in north bengal ||| Yes! North Bengal is our primary region. We cover all major cities across North Bengal.
+do you work in kolkata ||| Yes, we serve clients in Kolkata and all cities across West Bengal.
+do you work in west bengal ||| Yes! We serve businesses across all of West Bengal.
+do you work pan india ||| Yes, we serve clients across all Indian states.
+
+# ────────────────────────────────────────────────────────────
+# INDUSTRY-SPECIFIC MARKETING
+# ────────────────────────────────────────────────────────────
+do you work with restaurants ||| Yes, we provide digital marketing for restaurants including social media, Google My Business, and local SEO.
+do you work with hotels ||| Yes, we handle digital marketing for hotels, resorts, and homestays.
+do you work with gyms ||| Yes, we help gyms attract members through Facebook lead ads, Instagram, and local SEO.
+do you work with salons ||| Yes, we provide digital marketing for salons and spas with Instagram, Google My Business, and local SEO.
+do you work with travel agencies ||| Yes, we help travel agencies attract clients through social media, ads, and SEO.
+do you work with ngos ||| Yes, we assist NGOs with digital presence and awareness campaigns.
+do you work with law firms ||| Yes, we help law firms with professional websites, SEO, and LinkedIn marketing.
+do you work with ca firms ||| Yes, we help CA firms and financial advisors with websites, local SEO, and LinkedIn.
+do you work with retail shops ||| Yes, we help retail businesses with local SEO, social media, and digital ads.
+do you work with pharmacies ||| Yes, we help pharmacies with local SEO and community-focused social media.
+do you work with event planners ||| Yes, we market event planning businesses through social media, website, and Google Ads.
+do you work with photographers ||| Yes, we help photographers with portfolio websites, Instagram, and local SEO.
+do you work with bakeries ||| Yes, we help bakeries attract customers through Instagram, Facebook, and Google My Business.
+seo for restaurants ||| Restaurant SEO improves Google Maps visibility so nearby diners find you first.
+seo for hotels ||| Hotel SEO targets travelers searching for accommodation in your area.
+social media for restaurants ||| We create food photography content, daily specials, and promotional campaigns for restaurant social media.
+social media for gyms ||| Gym social media posts transformation stories, workout tips, and membership offers to attract clients.
+social media for salons ||| Salon social media showcases haircuts, makeovers, and nail art to attract new clients.
+
+# ────────────────────────────────────────────────────────────
+# DIGITAL MARKETING CONCEPTS
+# ────────────────────────────────────────────────────────────
+what is digital marketing ||| Digital marketing means promoting your business online through SEO, social media, websites, and ads to reach more customers.
+what is seo ||| SEO (Search Engine Optimization) improves your website to rank higher on Google, bringing free organic traffic.
+what is ppc ||| PPC (Pay Per Click) means you pay only when someone clicks your ad. Google Ads and Facebook Ads use PPC.
+what is content marketing ||| Content marketing creates valuable blogs, videos, and posts to attract and engage potential customers.
+what is email marketing ||| Email marketing sends promotional or informational emails to your subscribers to nurture leads and retain customers.
+what is lead generation ||| Lead generation attracts potential customers and collects their contact information for sales follow-up.
+what is conversion rate ||| Conversion rate is the percentage of visitors who take a desired action like buying, calling, or signing up.
+what is bounce rate ||| Bounce rate is the percentage of visitors who leave your website without taking any action.
+what is ctr ||| CTR (Click Through Rate) is the percentage of people who click your ad out of those who see it.
+what is cpc ||| CPC (Cost Per Click) is the amount you pay each time someone clicks your ad.
+what is cpm ||| CPM (Cost Per Mille) is the cost to show your ad to 1,000 people.
+what is roi ||| ROI (Return on Investment) measures profit earned compared to marketing spend. Higher ROI means better performance.
+what is roas ||| ROAS (Return on Ad Spend) shows revenue earned per rupee spent on ads. 4x ROAS means ₹4 earned per ₹1 spent.
+what is organic traffic ||| Organic traffic is visitors who find your website through search engines without paid ads. SEO drives organic traffic.
+what is paid traffic ||| Paid traffic comes from advertising like Google Ads and Facebook Ads.
+what is a keyword ||| A keyword is a word or phrase people type into search engines. Targeting the right keywords is key to SEO.
+what is a backlink ||| A backlink is a link from another website to yours. Quality backlinks improve your Google rankings.
+what is domain authority ||| Domain Authority (DA) predicts how well a website will rank on search engines. Higher DA = better ranking potential.
+what is google my business ||| Google My Business (Google Business Profile) is a free listing that shows your business on Google Maps and Search.
+what is local seo ||| Local SEO helps your business appear in Google searches for services near a specific location.
+what is remarketing ||| Remarketing shows ads to people who previously visited your website to bring them back and convert them.
+what is a landing page ||| A landing page is a focused web page designed to convert ad visitors into leads or customers.
+what is a call to action ||| A CTA (Call to Action) prompts visitors to act: "Call Now", "Book Free Consultation", "Get Quote".
+what is a sales funnel ||| A sales funnel shows the customer journey: Awareness → Interest → Decision → Action.
+what is brand awareness ||| Brand awareness measures how well people recognize and remember your business.
+what is brand identity ||| Brand identity includes your logo, colors, typography, and visual style that represent your business.
+what is target audience ||| Target audience is the specific group of people most likely to buy your product or service.
+what is google analytics ||| Google Analytics tracks website visitors, their behavior, traffic sources, and conversions.
+what is google search console ||| Google Search Console shows how your website performs in Google searches, including rankings and errors.
+what is facebook pixel ||| Facebook Pixel tracks website actions to improve Facebook ad targeting and measure conversions.
+what is a b testing ||| A/B testing compares two versions of an ad or page to find which performs better.
+what is core web vitals ||| Core Web Vitals are Google's performance metrics: loading speed, interactivity, and visual stability.
+what is responsive design ||| Responsive design makes websites look and work well on all screen sizes including mobile and desktop.
+what is ssl ||| SSL (Secure Sockets Layer) encrypts website data showing the padlock icon. Google favors HTTPS sites.
+what is marketing automation ||| Marketing automation uses software to automate repetitive tasks like email campaigns and social posts.
+what is crm ||| CRM (Customer Relationship Management) software helps manage your customer data and sales pipeline.
+what is influencer marketing ||| Influencer marketing uses popular social media figures to promote your brand to their audience.
+what is social proof ||| Social proof includes reviews, testimonials, and case studies that build trust in your business.
+seo vs ppc ||| SEO builds long-term free organic traffic. PPC gives immediate paid results. Both work best together.
+google ads vs facebook ads ||| Google Ads target active searchers. Facebook Ads build awareness by audience. We recommend combining both.
+organic vs paid marketing ||| Organic (SEO, content) is sustainable and free long-term but slower. Paid ads bring fast results but need ongoing budget.
+
+# ────────────────────────────────────────────────────────────
+# PROCESS & ONBOARDING
+# ────────────────────────────────────────────────────────────
+how to start with cognition venture ||| Call +91 9332015302 or WhatsApp +91 8016786669 for a free consultation. We'll understand your goals and create a plan.
+what is the process ||| Step 1: Free 30-min consultation → Step 2: Custom proposal → Step 3: Approval & payment → Step 4: Onboarding → Step 5: Work begins in 3–5 days.
+what happens after signup ||| After signup, we conduct an onboarding call, gather your brand assets, set up tracking, and begin work within 3–5 business days.
+how long to see results ||| SEO: 3–6 months. Ads: leads in 2–3 days. Social media: engagement growth in 30–60 days.
+what information do you need ||| We need your business name, logo, goals, target audience, and any existing content. We handle everything else.
+monthly report details ||| Reports include keyword rankings, organic traffic, social media growth, ad performance, leads generated, and ROI.
+who manages my account ||| You get a dedicated account manager as your single point of contact for all updates and queries.
+can i request changes ||| Absolutely! Changes can be requested anytime within the scope of your package.
+do i own my accounts ||| Yes! All accounts are created in your name. You own everything — website, social media, and ad accounts.
+do you sign nda ||| Yes, we can sign an NDA to protect your business information. Contact info@cognitionventure.com.
+is my data safe ||| Yes, we follow strict data privacy practices. Your business information is never shared with third parties.
+privacy policy ||| Our privacy policy is at cognitionventure.com/privacy-policy.php.
+
+# ────────────────────────────────────────────────────────────
+# OBJECTION HANDLING
+# ────────────────────────────────────────────────────────────
+your service is expensive ||| We have flexible packages starting at ₹4,269/month. Marketing is an investment — even small campaigns bring returns. Let's find what fits your budget.
+no budget for marketing ||| Many businesses start small and grow. Packages from ₹4,269/month. Start small, see results, then scale.
+not interested ||| That's okay! We're here at +91 9332015302 if you change your mind.
+tried marketing before and failed ||| Many campaigns fail due to wrong strategy. We use data-driven approaches and transparent reporting for real results.
+marketing doesnt work ||| Digital marketing works with the right strategy. We've helped 50+ businesses grow. Let's discuss your situation.
+too busy ||| That's why we exist! You run your business, we handle all your digital marketing.
+i can do marketing myself ||| Great! We can assist with specific tasks or take over when you get too busy. Call +91 9332015302.
+worried about scams ||| We operate transparently with proper invoices, client references, and a verified Google Maps listing. Verify us at cognitionventure.com.
+results are too slow ||| SEO takes 3–6 months — that's organic growth. For faster results, combine SEO with Google or Facebook Ads.
+no guarantee on results ||| No agency can guarantee specific rankings. We guarantee consistent quality work and transparent reporting.
+competitor charges less ||| Cheaper often means less personalized service and hidden costs. We focus on ROI and transparent pricing.
+let me think about it ||| Of course! Take your time. We're here at +91 9332015302 whenever you're ready.
+i already have a website ||| Great! We can audit your existing website and improve its performance and SEO.
+i already do social media ||| That's a start! We can audit your social media and take it to the next level.
+my business is different ||| Every business is unique! We create custom strategies after understanding your industry and goals.
+i need more customers ||| We specialize in customer acquisition through SEO, Google Ads, and Facebook Ads. Call +91 9332015302.
+business is not growing ||| Digital marketing opens new customer channels. Let's discuss a strategy — free consultation at +91 9332015302.
+
+# ────────────────────────────────────────────────────────────
+# FREE TOOLS
+# ────────────────────────────────────────────────────────────
+what free tools do you offer ||| We offer a free Image to PDF Converter and Image Compressor at cognitionventure.com/tools/.
+image to pdf tool ||| Use our free Image to PDF Converter at cognitionventure.com/tools/image-to-pdf.
+image compressor tool ||| Use our free Image Compressor at cognitionventure.com/tools/image-compressor.
+convert image to pdf ||| Visit cognitionventure.com/tools/image-to-pdf to convert any image to PDF for free.
+jpg to pdf ||| Convert JPG to PDF free at cognitionventure.com/tools/image-to-pdf.
+png to pdf ||| Convert PNG to PDF free at cognitionventure.com/tools/image-to-pdf.
+reduce image size ||| Reduce image file size for free at cognitionventure.com/tools/image-compressor.
+compress image online ||| Compress images online for free at cognitionventure.com/tools/image-compressor.
+are your tools free ||| Yes! All our online tools are completely free with no signup required.
+smart internal link seo booster ||| Our Smart Internal Link SEO Booster is at cognitionventure.com/smart-internal-link-seo-booster.php.
+
+# ────────────────────────────────────────────────────────────
+# LOCAL INFO & BLOG
+# ────────────────────────────────────────────────────────────
+malda travel guide ||| We have a Malda travel guide on our blog covering historical sites, places to visit, and more. Visit cognitionventure.com/blog.php.
+raiganj tourism guide ||| We have a Raiganj tourism guide on our blog. Visit cognitionventure.com/blog.php.
+malda dm ||| Dr. Preeti Goyal IAS is listed as Malda DM on our blog. Visit cognitionventure.com for the latest update.
+malda town railway station ||| We have information about Malda Town Railway Station on our blog at cognitionventure.com.
+malda college ||| We have a blog post about Malda College. Visit cognitionventure.com/blog.php.
+netaji malda visit ||| Netaji Subhas Chandra Bose visited Malda in 1939. We have a detailed blog post at cognitionventure.com.
+raiganj smart hospitals ||| We have a guide to smart hospitals in Raiganj at cognitionventure.com/blogs/raiganj-smart-hospitals.php.
+do you have a blog ||| Yes! Visit cognitionventure.com/blog.php for digital marketing tips, local business guides, and North Bengal news.
+sitemap ||| Our website sitemap is at cognitionventure.com/sitemap.php.
+get found on google maps malda ||| We optimize your Google Business Profile so Malda customers find you first on Maps. Call +91 9332015302.
+
+# ────────────────────────────────────────────────────────────
+# CAREERS
+# ────────────────────────────────────────────────────────────
+jobs at cognition venture ||| Visit cognitionventure.com/careers.php for current job openings.
+how to apply for job ||| Visit cognitionventure.com/careers.php or email your resume to info@cognitionventure.com.
+internship opportunities ||| Yes, we offer internships! Visit cognitionventure.com/careers.php for details.
+digital marketing internship ||| We offer digital marketing internships for students. Check cognitionventure.com/careers.php.
+graphic design job ||| Check cognitionventure.com/careers.php for Graphic Designer openings.
+content writer job ||| Check cognitionventure.com/careers.php for Content Writer openings.
+seo job ||| Check cognitionventure.com/careers.php for SEO Executive openings.
+web developer job ||| Check cognitionventure.com/careers.php for Web Developer openings.
+do you hire freshers ||| Yes, we welcome motivated freshers! Email resume to info@cognitionventure.com.
+work from home job ||| Some roles offer remote work flexibility. Check cognitionventure.com/careers.php.
+freelance opportunity ||| We work with freelancers. Email info@cognitionventure.com with your skills and portfolio.
+partnership inquiry ||| We're open to partnerships. Email info@cognitionventure.com with your proposal.
+
+# ────────────────────────────────────────────────────────────
+# HINDI LANGUAGE Q&A
+# ────────────────────────────────────────────────────────────
+aap kya karte ho ||| Hum Cognition Venture hain — ek digital marketing agency Malda mein. Hum SEO, website, social media, aur ads services provide karte hain.
+digital marketing kya hai ||| Digital marketing matlab internet ke zariye apna business promote karna — SEO, social media, website, aur ads ke through.
+seo kya hai ||| SEO se aapki website Google mein upar aati hai. Results 3–6 mahine mein milte hain.
+website banana hai ||| Bilkul! Hum ₹6,999/year se professional websites banate hain. Call karein +91 9332015302.
+facebook ads kya hain ||| Facebook ads se aap apne target customers tak directly pahunch sakte ho. Starting ₹4,269/month.
+contact kaise kare ||| Call: +91 9332015302 | WhatsApp: +91 8016786669 | Email: info@cognitionventure.com
+price kya hai ||| SEO: ₹5,000/month, Social Media: ₹4,269/month, Website: ₹6,999/year se. Custom quotes available.
+free consultation kab milegi ||| Hum free 30-minute consultation dete hain. Call karein +91 9332015302.
+kya aap malda mein ho ||| Haan! Hum English Bazar, Malda, West Bengal mein located hain.
+discount milega ||| Haan! Pehle mahine ₹12,999 mein (regular ₹15,999). Annual plans mein 2 mahine free.
+kab se shuru kar sakte hain ||| Aaj hi! Call karein +91 9332015302 ya WhatsApp +91 8016786669.
+payment kaise kare ||| UPI (Google Pay, PhonePe, Paytm), Bank Transfer, Credit Card, ya PayPal se.
+results kab milenge ||| SEO results 3–6 mahine mein. Ads se leads 2–3 din mein aa sakti hain.
+apna number kya hai ||| Call: +91 9332015302, WhatsApp: +91 8016786669.
+kya trustworthy hain ||| Bilkul! 50+ clients ke saath kaam kiya hai. Transparent reporting, koi hidden charges nahi.
+mujhe leads chahiye ||| Hum Google Ads aur Facebook Ads se qualified leads generate karte hain. Call +91 9332015302.
+mujhe website chahiye ||| Hum ₹6,999/year se professional websites banate hain. Call karein +91 9332015302.
+logo design chahiye ||| Logo design ₹2,999 se shuru, 3 revisions included. Call +91 9332015302.
+branding kya hoti hai ||| Branding matlab aapki business ki unique identity banana — logo, colors, tagline, aur personality.
+google my business kya hai ||| Google My Business ek free listing hai jo aapka business Google Maps aur Search mein dikhata hai.
+
+# ────────────────────────────────────────────────────────────
+# CLOSING & GRATITUDE
+# ────────────────────────────────────────────────────────────
+thank you ||| You're welcome! Happy to help anytime.
+thanks ||| You're welcome! Let me know if you need anything else.
+thank you so much ||| Glad I could help! Feel free to ask more questions.
+thanks a lot ||| My pleasure! We're always here for you.
+that was helpful ||| Great! We're always here. Contact us at +91 9332015302.
+you are helpful ||| Thank you! That means a lot. How else can I assist?
+awesome ||| Thank you! Ready to help your business grow. Call +91 9332015302.
+great ||| Glad to help! Contact us at +91 9332015302 to get started.
+perfect ||| Great! Reach us at +91 9332015302 to start your digital journey.
+impressed ||| Thank you! We work hard to deliver the best. Ready to grow your business?
+sounds good ||| Excellent! Call +91 9332015302 to get started.
+got it ||| Perfect! Contact us at +91 9332015302 to move forward.
+ok ||| Great! Let me know if you need more information.
+okay ||| Understood! Feel free to ask anything else.
+bye ||| Goodbye! Feel free to reach out anytime at +91 9332015302.
+goodbye ||| Goodbye! We're here whenever you need us.
+see you later ||| Take care! Message us at +91 8016786669 when you need help.
+ok bye ||| Goodbye! Come back anytime for digital marketing help.
+will contact you soon ||| Looking forward to it! We're available Mon–Sat, 10AM–7PM.
+i will call you ||| Great! We're available at +91 9332015302. Looking forward to it!
+i will whatsapp you ||| Perfect! Our WhatsApp is +91 8016786669. We'll be happy to chat.
+tell me a joke ||| Why did the marketer go broke? He lost his AdSense! 😄 Now, how can I help your business grow?
+do you sleep ||| Nope! I'm available 24/7. Our human team works Mon–Sat, 10AM–7PM.
+are you always available ||| Yes! I'm online 24/7. Human support is Mon–Sat, 10AM–7PM at +91 9332015302.
+i am bored ||| Let's talk about growing your business! Ask how digital marketing can bring you more customers.
+not sure what to ask ||| No worries! Ask about: Services, Pricing, Locations, or How to Get Started. Or call +91 9332015302.
+just browsing ||| Feel free to explore! Ask me anything about Cognition Venture's services. No obligation.
+[unknown] ||| I'm not sure about that. Could you rephrase or ask about our services like SEO, social media, or websites?
+[off-topic] ||| I specialize in digital marketing. Ask me about SEO, social media, websites, or pricing.
+[complex] ||| That's a detailed question. Would you like a free consultation with our team? Call +91 9332015302.
